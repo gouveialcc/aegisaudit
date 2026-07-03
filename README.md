@@ -32,11 +32,16 @@ git clone [https://github.com/gouveialcc/aegisaudit.git).
 
 cd AegisAudit
 
+
 Dê permissão de execução ao script:
+
 chmod +x aegisaudit.sh
 
+
 Execute a ferramenta utilizando sudo:
+
 sudo ./aegisaudit.sh
+
 
 📊 Output da Ferramenta
 Visualização no Terminal (Interface Executiva)
@@ -60,6 +65,7 @@ Processando [7/7] - Eventos Críticos do Kernel... [OK]
 Relatório gerado em: /tmp/aegisaudit_server-prod-01_2026-07-03_09-12.log
 ----------------------------------------------------------------------
 Arquivo de Log Gerado
+
 O relatório final é salvo em /tmp/ com a convenção de nomenclatura aegisaudit_[HOSTNAME]_[DATA].log. Ele é estruturado em blocos textuais limpos com divisórias, facilitando buscas rápidas (grep) por anomalias.
 
 ⚙️ Customização
