@@ -27,7 +27,8 @@ Por acessar arquivos restritos do sistema (como logs de falhas de login e portas
 
 ### Instalação Rápida
 1. Clone o repositório ou baixe o script diretamente:
-git clone [https://github.com/gouveialcc/aegisaudit.git)  cd AegisAudit
+  git clone [https://github.com/gouveialcc/aegisaudit.git).
+  cd AegisAudit
 
 Dê permissão de execução ao script:
 chmod +x aegisaudit.sh
